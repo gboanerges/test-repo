@@ -1,5 +1,6 @@
 # test-repo
 
-## Coursera Exercise Lab 1
+## Coursera Exercises
 
-> Editing the file
+> Creating/uploading files
+> Branches, pull requests, merges
